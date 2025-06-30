@@ -90,22 +90,22 @@ body main div#self img {
   -webkit-box-shadow: -31px 32px 0px -10px rgba(202, 206, 0, 0.75);
   -moz-box-shadow: -31px 32px 0px -10px rgba(202, 206, 0, 0.75);
 }
-body #projects {
+body #projecten {
   max-width: 100%;
   height: 100vh;
   padding: 3.5em;
 }
-body #projects h2 {
+body #projecten h2 {
   color: #CACE00;
   font-size: 3rem;
 }
-body #projects #projects-inner {
+body #projecten #projects-inner {
   width: 100%;
   display: flex;
   flex-flow: row;
   justify-content: space-between;
 }
-body #projects #projects-inner div.project {
+body #projecten #projects-inner div.project {
   margin-top: 2em;
   background-color: #014751;
   width: 30%;
